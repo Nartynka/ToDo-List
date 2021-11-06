@@ -1,4 +1,4 @@
-#TO-DO List
+# TO-DO List
 Simple to-do list created using node with express, ejs and mongoDB with mongoose
 
 On main list you can add and remove tasks to do.
